@@ -1,4 +1,4 @@
-# DiaCorPolL: Diachronic Corpus and Lexicon of Polish Latin
+# DiaCorPoL: Diachronic Corpus and Lexicon of Polish Latin
 
 The project is under development at the Institute of the Polish Language (Polish Academy of Sciences).
 
