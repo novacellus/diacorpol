@@ -9,3 +9,5 @@ The corpus will enable diachronic research on Latin language in Poland, includin
 The code includes:
 * [talks and presentations for scientific conferences](talks)
    * our talk at the DH 2023 in Graz: Jagoda Marszałek, Iwona Krawczyk, Krzysztof Nowak, *Towards Diachronic Corpus of Polish Latin*
+* [various tools](utils)
+   * [processing bibliographic data](utils/biblio)
